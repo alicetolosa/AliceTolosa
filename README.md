@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alice Tolosa 🌟
+## Bem-vindo(a) ao perfil da Alice Tolosa 🌟
 
  <div>
    <a href="https://github.com/alicetolosa">

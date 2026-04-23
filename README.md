@@ -1,39 +1,43 @@
 ## Bem-vindo(a) ao perfil da Alice Tolosa 🌟
 
-  👩🏻‍💻 **`Desenvolvedora FullStack`**
+👩🏻‍💻 **`Desenvolvedora Full Stack | Node.js | React | APIs REST |`**
 
-  Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei como Analista de Departamento Pessoal. Estou em transição de carreira e atualmente participo de um bootcamp incrível com a Generation Brasil, voltado para desenvolvimento web JavaScript Full Stack, onde atuei com as seguintes tecnologias: JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de Programação | POO.
+Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei na área de RH, onde desenvolvi habilidades como análise de dados, atenção aos detalhes e gestão de prazos, que hoje aplico no desenvolvimento de software.
 
-Estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Tenho alguns projetos disponíveis aqui, como: Blog Pessoal, Carrossel Animado, Dorama e One Piece. Compartilho meu conhecimento e evolução através do meu perfil do LinkedIn e sou movida a desafios, por isso embarquei na área de tecnologia.
+Atualmente, faço parte do bootcamp da Generation Brasil focado em Desenvolvimento Web Full Stack com JavaScript, trabalhando com tecnologias como:
+JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de Programação | POO | Tailwind
 
-  <br/>
+Curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Aqui você encontrará projetos de front-end e back-end, aplicando na prática os meus conhecimentos e compartilho minha evolução no meu LinkedIn. Sigo construindo minha carreira em tecnologia com dedicação e curiosidade.
 
-    
-  
-  ### Linguagens e Tecnologias
+---
+
+
+### Linguagens e Tecnologias
+
   <div style="display: inline_block">
   
-  <img align="left" alt="Js" title="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" title="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="left" alt="Ts" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ts" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 
-  <img align="left" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >
 
-  <img align="left" alt="Nextjs" title="Next.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  >
+  <img align="center" alt="NestJS" title="NestJS" height="30" width="40"  src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"  >
 
-  <img align="left" alt="Tailwind" title="Tailwind" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
+  <img align="center" alt="Tailwind" title="Tailwind" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
 
-  <img align="left" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="30" width="40"   src="https://cdn.simpleicons.org/mysql/4479A1" width="40" >
 
-  <img align="left" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
 
-  <br/>
-  <br/>
- 
+<br/>
+<br/>
 
-### 📊 Estatísticas
 <div>
   <a href="https://github.com/alicetolosa">
     <img  
@@ -42,25 +46,65 @@ Estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicetolosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/> 
   </a>
 </div>
-   
 
-### 📌 Projetos 
+---
+### 📌 Projetos em Destaque 
+
+### 🎨 Front-end
+
+🎬 **Carrossel Animado Dorama** <br>
+Tecnologias: JavaScript | HTML | CSS
+
+Projeto pessoal com interface interativa exibindo meus doramas favoritos.
+
+<img src="./assets/images/Animação-de-tela-Dorama.gif" width="500"/>
+
+---
+
+🔐 **Tela de Login** <br>
+Tecnologias: JavaScript | HTML | CSS
+
+Interface moderna de autenticação com foco em design e usabilidade.
+
+<img src="./assets/images/Animação-de-tela-Login.gif" width="500"/>
+
+---
+
+### 🔙 Back-end
+
+🥗 **Rangoo** <br>
+Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | REST API | Swagger
+
+API REST para plataforma de delivery de alimentos saudáveis, com gerenciamento de produtos e categorias.
+
+<img src="./assets/images/Screenshot_1.png" width="500"/>
+
+---
+
+🚗 **Rota Inclusiva** <br>
+Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | Swagger
+
+API para aplicativo de carona compartilhada.
+
+<img src="./assets/images/Screenshot_2.png" width="500"/>
 
 
-<br>
+---
 
-### Me acompanhe nas redes abaixo!
- 
+### 📫 Contato 
+
+Fique à vontade para entrar em contato ou acompanhar minha jornada na área de tecnologia.
 <div> 
   
-  <a href="https://instagram.com/licecodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aliceoliveira81@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outllok&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alice-oliveira81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:aliceoliveira81@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+<br>
+  <a href="https://www.linkedin.com/in/alice-oliveira81/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
 </div>
 
-
-</div>
  
 <br>
- 
-

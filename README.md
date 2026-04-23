@@ -4,7 +4,7 @@
 
 Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei na área de RH, onde desenvolvi habilidades como análise de dados, atenção aos detalhes e gestão de prazos, que hoje aplico no desenvolvimento de software.
 
-Atualmente, participo do bootcamp da Generation Brasil, focado em Desenvolvimento Web Full Stack com JavaScript, atuando com tecnologias como JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de programação | Programação Orientada a Objetos (POO). Estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
+Atualmente, participo do bootcamp da Generation Brasil, focado em Desenvolvimento Web Full Stack com JavaScript, atuando com tecnologias como JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de programação | Programação Orientada a Objetos (POO). E paralelamente, curso  Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
 
 Aqui você encontrará meus projetos e evolução.
 💜

@@ -40,7 +40,7 @@ Projeto pessoal com interface interativa exibindo meus doramas favoritos.
 Tecnologias: JavaScript | HTML | CSS
 
 Interface moderna de autenticação com foco em design e usabilidade.
-<br>🔗 [Ver projeto](https://github.com/alicetolosa/projeto-tela-login01/deployments/github-pages)
+<br>🔗 [Ver projeto](https://alicetolosa.github.io/projeto-tela-login01/)
 
 <img src="./assets/images/Animação-de-tela-Login.gif" width="500"/>
 

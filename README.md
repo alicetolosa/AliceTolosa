@@ -13,14 +13,7 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. A
 
 ### Linguagens e Tecnologias
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" title="JavaScript" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Ts" title="TypeScript" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" title="NestJS" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="40" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" title="JavaScript" height="40" width="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Ts" title="TypeScript" height="40" width="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" title="NestJS" height="40" width="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" height="40" width="40" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" height="40" width="40" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="40" width="40" />&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="40" width="40" />
 </div>
 <br><br>
 

@@ -5,14 +5,13 @@
 Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei na área de RH, onde desenvolvi habilidades como análise de dados, atenção aos detalhes e gestão de prazos, que hoje aplico no desenvolvimento de software.
 
 Atualmente, faço parte do bootcamp da Generation Brasil focado em Desenvolvimento Web Full Stack com JavaScript, trabalhando com tecnologias como:
-JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de Programação | POO | Tailwind
+JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de Programação | POO | Tailwind e estou cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. 
 
-Curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Aqui você encontrará projetos de front-end e back-end, aplicando na prática os meus conhecimentos e compartilho minha evolução no meu LinkedIn. Sigo construindo minha carreira em tecnologia com dedicação e curiosidade.
+Aqui você encontrará projetos aplicando na prática os meus conhecimentos e evolução.
+💜
 
 ---
-
-
-### Linguagens e Tecnologias
+### 🚀 Linguagens e Tecnologias
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -65,7 +64,7 @@ API para aplicativo de carona compartilhada.
 
 ---
 
-### 📫 Contato 
+### 📫 Contatos 
 
 Fique à vontade para entrar em contato ou acompanhar minha jornada na área de tecnologia.
 <div style="display: inline_block"> 

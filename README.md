@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil da Alice Tolosa 🌟
 
-👩🏻‍💻 **`Desenvolvedora Full Stack | Node.js | React | APIs REST |`**
+**`Desenvolvedora Full Stack | Node.js | React | APIs REST |`**
 
 Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei na área de RH, onde desenvolvi habilidades como análise de dados, atenção aos detalhes e gestão de prazos, que hoje aplico no desenvolvimento de software.
 

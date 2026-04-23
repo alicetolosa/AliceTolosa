@@ -27,9 +27,10 @@ Aqui você encontrará meus projetos e evolução.
 
 
 🎬 **Carrossel Animado Dorama**  (Front-end) <br>
-Tecnologias: JavaScript | HTML | CSS
+Tecnologias: JavaScript | HTML | CSS 
 
 Projeto pessoal com interface interativa exibindo meus doramas favoritos.
+<br>🔗 [Ver projeto](https://alicetolosa.github.io/Projeto-Carrossel-Animado-Dorama/)
 
 <img src="./assets/images/Animação-de-tela-Dorama.gif" width="500"/>
 
@@ -39,6 +40,7 @@ Projeto pessoal com interface interativa exibindo meus doramas favoritos.
 Tecnologias: JavaScript | HTML | CSS
 
 Interface moderna de autenticação com foco em design e usabilidade.
+<br>🔗 [Ver projeto](https://github.com/alicetolosa/projeto-tela-login01/deployments/github-pages)
 
 <img src="./assets/images/Animação-de-tela-Login.gif" width="500"/>
 
@@ -48,6 +50,7 @@ Interface moderna de autenticação com foco em design e usabilidade.
 Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | REST API | Swagger
 
 API REST para plataforma de delivery de alimentos saudáveis, com gerenciamento de produtos e categorias.
+<br>🔗 [Ver projeto](https://rangoo-nest.onrender.com/swagger#/)
 
 <img src="./assets/images/Screenshot_1.png" width="500"/>
 
@@ -57,6 +60,7 @@ API REST para plataforma de delivery de alimentos saudáveis, com gerenciamento 
 Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | Swagger
 
 API para aplicativo de carona compartilhada.
+<br>🔗 [Ver projeto](https://www.canva.com/design/DAHGvlDRlV8/q5v-0_DY0oeDcnVSqFUmlA/edit)
 
 <img src="./assets/images/Screenshot_2.png" width="500"/>
 

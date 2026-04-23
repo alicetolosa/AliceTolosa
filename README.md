@@ -14,29 +14,13 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. A
 
 ### Linguagens e Tecnologias
 
-  <div style="display: inline_block">
+<p align="center">
   
-  <img align="center" alt="Js" title="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Js" title="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img  alt="Ts" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> <img alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" > <img  alt="NestJS" title="NestJS" height="30" width="40" src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" >
+  <img  alt="Tailwind" title="Tailwind" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" > <img  alt="MySQL" title="MySQL" height="30" width="40"   src="https://cdn.simpleicons.org/mysql/4479A1" width="40" > <img  alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img  alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Ts" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+</p>
 
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >
-
-  <img align="center" alt="NestJS" title="NestJS" height="30" width="40"  src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"  >
-
-  <img align="center" alt="Tailwind" title="Tailwind" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="40"   src="https://cdn.simpleicons.org/mysql/4479A1" width="40" >
-
-
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div>
-
-<br/>
-<br/>
 
 <div>
   <a href="https://github.com/alicetolosa">
@@ -50,9 +34,8 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. A
 ---
 ### 📌 Projetos em Destaque 
 
-### 🎨 Front-end
 
-🎬 **Carrossel Animado Dorama** <br>
+🎬 **Carrossel Animado Dorama**  (Front-end) <br>
 Tecnologias: JavaScript | HTML | CSS
 
 Projeto pessoal com interface interativa exibindo meus doramas favoritos.
@@ -61,7 +44,7 @@ Projeto pessoal com interface interativa exibindo meus doramas favoritos.
 
 ---
 
-🔐 **Tela de Login** <br>
+🔐 **Tela de Login** (Front-end) <br>
 Tecnologias: JavaScript | HTML | CSS
 
 Interface moderna de autenticação com foco em design e usabilidade.
@@ -70,9 +53,7 @@ Interface moderna de autenticação com foco em design e usabilidade.
 
 ---
 
-### 🔙 Back-end
-
-🥗 **Rangoo** <br>
+🥗 **Rangoo** (Back-end) <br>
 Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | REST API | Swagger
 
 API REST para plataforma de delivery de alimentos saudáveis, com gerenciamento de produtos e categorias.
@@ -81,7 +62,7 @@ API REST para plataforma de delivery de alimentos saudáveis, com gerenciamento 
 
 ---
 
-🚗 **Rota Inclusiva** <br>
+🚗 **Rota Inclusiva** (Back-end)<br>
 Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | Swagger
 
 API para aplicativo de carona compartilhada.
@@ -94,7 +75,7 @@ API para aplicativo de carona compartilhada.
 ### 📫 Contato 
 
 Fique à vontade para entrar em contato ou acompanhar minha jornada na área de tecnologia.
-<div> 
+<div style="display: inline_block"> 
   
    <a href="mailto:aliceoliveira81@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">

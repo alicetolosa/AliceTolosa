@@ -16,14 +16,14 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. A
 
 <p>
   
-  <img align="left" alt="Js" title="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img  align="left" alt="Ts" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> 
-  <img align="left" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" > 
-  <img align="left" alt="NestJS" title="NestJS" height="30" width="40" src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" >
-  <img align="left" alt="Tailwind" title="Tailwind" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-  <img align="left" alt="MySQL" title="MySQL" height="30" width="40"   src="https://cdn.simpleicons.org/mysql/4479A1" width="40" > 
-  <img align="left" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="left" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center-left" alt="Js" title="JavaScript"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img  align="center-left" alt="Ts" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> 
+  <img align="center-left" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" > 
+  <img align="center-left" alt="NestJS" title="NestJS" height="30" width="40" src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" >
+  <img align="center-left" alt="Tailwind" title="Tailwind" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
+  <img align="center-left" alt="MySQL" title="MySQL" height="30" width="40"   src="https://cdn.simpleicons.org/mysql/4479A1" width="40" > 
+  <img align="center-left" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center-left" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </p>
 

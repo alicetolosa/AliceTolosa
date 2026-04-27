@@ -1,30 +1,35 @@
-## Bem-vindo(a) ao perfil da Alice Tolosa 🌟
+# Bem-vindo(a) ao perfil da Alice Tolosa 🌟
 
-**`Desenvolvedora Full Stack | Node.js | React | APIs REST |`**
+### **`Desenvolvedora Full Stack | Node.js | React | APIs REST |`**
 
 Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei na área de RH, onde desenvolvi habilidades como análise de dados, atenção aos detalhes e gestão de prazos, que hoje aplico no desenvolvimento de software.
 
 Atualmente, participo do bootcamp da Generation Brasil, focado em Desenvolvimento Web Full Stack com JavaScript, atuando com tecnologias como JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de programação | Programação Orientada a Objetos (POO). E paralelamente, curso  Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
 
+Hoje, busco uma posição como desenvolvedora júnior para aprofundar minha atuação em tecnologia, contribuindo com dedicação, curiosidade e comprometimento em cada entrega.
+
+
 Aqui você encontrará meus projetos e evolução.
 💜
 
+
 ---
-### 🚀 Linguagens e Tecnologias
+## 🚀 Linguagens e Tecnologias 
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" title="JavaScript" height="40" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Ts" title="TypeScript" height="40" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40" /> | <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" title="NestJS" height="40" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" height="40" width="40" /> | <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" height="40" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="40" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="40" width="40" /> |
 
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicetolosa&layout=compact&theme=radical&locale=pt-br)
 
-<a href="https://github.com/alicetolosa">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicetolosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/> 
-</a>
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=alicetolosa&show_icons=true&theme=radical&locale=pt-br)
+
+## 🐍 Meu Snake Game no GitHub
+
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-### 📌 Projetos em Destaque 
-
+## 📌 Projetos em Destaque 
 
 🎬 **Carrossel Animado Dorama**  (Front-end) <br>
 Tecnologias: JavaScript | HTML | CSS 
@@ -66,21 +71,25 @@ API para aplicativo de carona compartilhada.
 
 
 ---
-
-### 📫 Contatos 
+### 📫 Contatos
 
 Fique à vontade para entrar em contato ou acompanhar minha jornada na área de tecnologia.
-<div style="display: inline_block"> 
-  
-   <a href="mailto:aliceoliveira81@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-<br>
-  <a href="https://www.linkedin.com/in/alice-oliveira81/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 
-</div>
+<p align="center">
+
+<a href="mailto:aliceoliveira81@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/alice-oliveira81/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/alicetolosa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
  
 <br>

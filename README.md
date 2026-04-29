@@ -35,7 +35,7 @@ Aqui você encontrará meus projetos e evolução.
 Tecnologias: JavaScript | HTML | CSS 
 
 Projeto pessoal com interface interativa exibindo meus doramas favoritos.
-<br>🔗 [Ver projeto](https://alicetolosa.github.io/Projeto-Carrossel-Animado-Dorama/)
+<br>🔗 [Ver projeto](https://alicetolosa.github.io/Carrossel-Animado-Dorama/)
 
 <img src="./assets/images/Animação-de-tela-Dorama.gif" width="500"/>
 

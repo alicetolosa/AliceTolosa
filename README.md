@@ -50,10 +50,8 @@ Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o c
 
 <br>
 
-<img align="right" width="420" src="assets/images/Rangoo.gif" width="70%" />
-
-
 ---
+<img align="right" width="400" src="assets/images/Rangoo.gif" width="100%" />
 
 ### `🍽️ Rango`
 

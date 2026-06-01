@@ -61,6 +61,7 @@ Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permi
 `NestJS` | `Node.js` | `TypeScript` | `MySQL` | `PostgreSQL` | `TypeORM` | `JWT` | `Swagger`|`React` | `TypeScript` | `Vite` | `Tailwind CSS` | `React Router DOM` | `Fetch API`
 
 🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
+<br>
 
 --- 
 

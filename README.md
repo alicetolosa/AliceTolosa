@@ -62,7 +62,7 @@ Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permi
 <br>
 > 🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
 
-<br><br>
+<br>
 
 --- 
 

@@ -39,6 +39,8 @@ Formação intensiva de mais de 400 horas pela Generation Brasil, com desenvolvi
 
 ## ⚛️ Meus Projetos Principais 
 
+<img align="right" width="420" src="assets/images/RotaInclusiva.gif" width="100%" />
+
 >`♿ Rota Inclusiva`
 
 Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o cadastro e gerenciamento de caronas com diferentes categorias de acessibilidade. Desenvolvida com NestJS, React, TypeScript e MySQL.
@@ -47,8 +49,10 @@ Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o c
 
 > 🔗 **Deploy do Front-end:** [Ver projeto](https://rotainclusiva-react.vercel.app/)
 
-<img align="right" width="420" src="assets/images/RotaInclusiva.gif" width="100%" />
 
+<br>
+
+<img align="right" width="420" src="assets/images/Rangoo.gif" width="100%" />
 
 >`🍽️ Rango`
 
@@ -57,9 +61,6 @@ Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permi
 `NestJS` | `Node.js` | `TypeScript` | `MySQL` | `PostgreSQL` | `TypeORM` | `JWT` | `Swagger`|`React` | `TypeScript` | `Vite` | `Tailwind CSS` | `React Router DOM` | `Fetch API`
 
 🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
-
-
-<img align="right" width="420" src="assets/images/Rangoo.gif" width="100%" />
 
 --- 
 

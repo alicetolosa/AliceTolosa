@@ -41,7 +41,7 @@ Formação intensiva de mais de 400 horas pela Generation Brasil, com desenvolvi
 
 <img align="right" width="420" src="assets/images/RotaInclusiva.gif" width="100%" />
 
->`♿ Rota Inclusiva`
+### >`♿ Rota Inclusiva`
 
 Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o cadastro e gerenciamento de caronas com diferentes categorias de acessibilidade. Desenvolvida com NestJS, React, TypeScript e MySQL.
 <br>
@@ -54,7 +54,7 @@ Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o c
 
 <img align="right" width="420" src="assets/images/Rangoo.gif" width="100%" />
 
->`🍽️ Rango`
+### >`🍽️ Rango`
 
 Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permitindo o cadastro de produtos, categorias e operações de CRUD. Desenvolvida com React, TypeScript, NestJS e MySQL.
 <br>

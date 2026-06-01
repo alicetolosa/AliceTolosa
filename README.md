@@ -51,7 +51,7 @@ Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o c
 <br>
 
 ---
-<br>
+
 <img align="right" width="400" src="assets/images/Rangoo.gif" width="100%" />
 
 ### `🍽️ Rango`
@@ -59,8 +59,8 @@ Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o c
 Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permitindo o cadastro de produtos, categorias e operações de CRUD. Desenvolvida com React, TypeScript, NestJS e MySQL.
 <br>
 `NestJS` | `Node.js` | `TypeScript` | `MySQL` | `PostgreSQL` | `TypeORM` | `JWT` | `Swagger`|`React` | `TypeScript` | `Vite` | `Tailwind CSS` | `React Router DOM` | `Fetch API`
-
-🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
+<br>
+> 🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
 
 
 --- 

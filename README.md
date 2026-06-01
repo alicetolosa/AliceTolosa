@@ -54,7 +54,7 @@ Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o c
 
 <img align="right" width="420" src="assets/images/Rangoo.gif" width="100%" />
 
-### `🍽️ Rango`
+### `🍽️ Rangoo`
 
 Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permitindo o cadastro de produtos, categorias e operações de CRUD. Desenvolvida com React, TypeScript, NestJS e MySQL.
 <br>
@@ -62,6 +62,7 @@ Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permi
 <br>
 > 🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
 
+<br><br><br><br>
 
 --- 
 

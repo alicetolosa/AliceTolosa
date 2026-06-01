@@ -1,95 +1,88 @@
-# Bem-vindo(a) ao perfil da Alice Tolosa 🌟
-
-### **`Desenvolvedora Full Stack | Node.js | React | APIs REST |`**
-
-Me chamo Alice, tenho 29 anos e sou de São Paulo/SP. Antes da tecnologia, atuei na área de RH, onde desenvolvi habilidades como análise de dados, atenção aos detalhes e gestão de prazos, que hoje aplico no desenvolvimento de software.
-
-Atualmente, participo do bootcamp da Generation Brasil, focado em Desenvolvimento Web Full Stack com JavaScript, atuando com tecnologias como JavaScript | TypeScript | Node.js | NestJS | React | APIs REST | MySQL | HTML | CSS | Lógica de programação | Programação Orientada a Objetos (POO). E paralelamente, curso  Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
-
-Hoje, busco uma posição como desenvolvedora júnior para aprofundar minha atuação em tecnologia, contribuindo com dedicação, curiosidade e comprometimento em cada entrega.
-
-
-Aqui você encontrará meus projetos e evolução.
-💜
-
-
----
-## 🚀 Linguagens e Tecnologias 
-
-| | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" title="JavaScript" height="40" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Ts" title="TypeScript" height="40" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="40" width="40" /> | <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" title="NestJS" height="40" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" height="40" width="40" /> | <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" height="40" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="40" width="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="40" width="40" /> |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicetolosa&layout=compact&theme=radical&locale=pt-br)
-
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=alicetolosa&show_icons=true&theme=radical&locale=pt-br)
-
-## 🐍 Meu Snake Game no GitHub
-
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-## 📌 Projetos em Destaque 
-
-🎬 **Carrossel Animado Dorama**  (Front-end) <br>
-Tecnologias: JavaScript | HTML | CSS 
-
-Projeto pessoal com interface interativa exibindo meus doramas favoritos.
-<br>🔗 [Ver projeto](https://alicetolosa.github.io/Carrossel-Animado-Dorama/)
-
-<img src="./assets/images/Animação-de-tela-Dorama.gif" width="500"/>
-
----
-
-🔐 **Tela de Login** (Front-end) <br>
-Tecnologias: JavaScript | HTML | CSS
-
-Interface moderna de autenticação com foco em design e usabilidade.
-<br>🔗 [Ver projeto](https://alicetolosa.github.io/projeto-tela-login01/)
-
-<img src="./assets/images/Animação-de-tela-Login.gif" width="500"/>
-
----
-
-🥗 **Rangoo** (Back-end) <br>
-Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | REST API | Swagger
-
-API REST para plataforma de delivery de alimentos saudáveis, com gerenciamento de produtos e categorias.
-<br>🔗 [Ver projeto](https://rangoo-nest.onrender.com/swagger#/)
-
-<img src="./assets/images/Screenshot_1.png" width="500"/>
-
----
-
-🚗 **Rota Inclusiva** (Back-end)<br>
-Tecnologias: NestJS | Node.js | TypeScript | MySQL | TypeORM | Swagger
-
-API para aplicativo de carona compartilhada.
-<br>🔗 [Ver projeto](https://www.canva.com/design/DAHGvlDRlV8/q5v-0_DY0oeDcnVSqFUmlA/edit)
-
-<img src="./assets/images/Screenshot_2.png" width="500"/>
-
-
----
-### 📫 Contatos
-
-Fique à vontade para entrar em contato ou acompanhar minha jornada na área de tecnologia.
-
 <p align="center">
-
-<a href="mailto:aliceoliveira81@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/alice-oliveira81/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/alicetolosa" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=900&color=C18FFD&width=439&lines=Desenvolvedora+Full+Stack+Jr+;Entre+estudos%2C+caf%C3%A9s+e+commits." />
 </p>
 
- 
+## 💜 Sobre mim
+
+<img align="right" width="420" src="assets/images/via-láctea estrelada.png" width="100%" />
+
+Oi! Eu sou a **Alice Oliveira Tolosa**, **Fullstack Developer**. Amo criar aplicações, principalmente aquelas que geram **impacto social**.
+
+**Do RH para o Código:** Sim, essa bagagem foi um acelerador para o meu desenvolvimento na área tech.
+
+Formação intensiva de mais de 400 horas pela Generation Brasil, com desenvolvimento de projetos Full Stack utilizando as seguintes tecnologias:
+
+* **Backend:** Node.js, TypeScript, NestJS, APIs RESTful, Banco de Dados (MySQL) e TypeORM.
+* **Frontend:** JavaScript, React, Tailwind CSS, HTML5, CSS3 e Axios.
+* **Fundamentos:** Lógica de programação, Programação Orientada a Objetos (POO) e Git/GitHub.
+
+
+---
+## 🚀 Stacks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nestjs,nodejs,mysql,tailwind,vite,html,css,git,github,vscode,discord" />
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Game 
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+</p>
+
+---
+
+
+## ⚛️ Meus Projetos Principais 
+
+>`♿ Rota Inclusiva`
+
+Aplicação Full Stack voltada para mobilidade urbana acessível, permitindo o cadastro e gerenciamento de caronas com diferentes categorias de acessibilidade. Desenvolvida com NestJS, React, TypeScript e MySQL.
 <br>
+`NestJS` | `Node.js` | `TypeScript` | `MySQL` | `TypeORM` `React` | `TypeScript` | `Vite` | `Tailwind CSS` | `React Router DOM`
+
+> 🔗 **Deploy do Front-end:** [Ver projeto](https://rotainclusiva-react.vercel.app/)
+
+<img align="right" width="420" src="assets/images/RotaInclusiva.gif" width="100%" />
+
+
+>`🍽️ Rango`
+
+Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permitindo o cadastro de produtos, categorias e operações de CRUD. Desenvolvida com React, TypeScript, NestJS e MySQL.
+<br>
+`NestJS` | `Node.js` | `TypeScript` | `MySQL` | `PostgreSQL` | `TypeORM` | `JWT` | `Swagger`|`React` | `TypeScript` | `Vite` | `Tailwind CSS` | `React Router DOM` | `Fetch API`
+
+🔗 **Deploy do Front-end:** [Ver projeto](https://rangoo-react-acdp.vercel.app/)
+
+
+<img align="right" width="420" src="assets/images/Rangoo.gif" width="100%" />
+
+--- 
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+<a href="mailto:aliceoliveira81@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-8B5CF6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/alice-oliveira81/">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://alicetolosa.github.io/Portfolio-Pessoal/">
+  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=900&color=C18FFD&width=439&lines=C%C3%B3digo+com+prop%C3%B3sito+%F0%9F%92%9C." />
+</p>

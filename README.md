@@ -78,7 +78,7 @@ Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permi
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://alicetolosa.github.io/Portfolio-Pessoal/">
+<a href="https://alicetolosa-portfolio-git-main-alicetolosa-03b083d6.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 

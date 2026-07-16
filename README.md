@@ -4,7 +4,7 @@
 
 ## 💜 Sobre mim
 
-<img align="right" width="420" src="assets/images/via-láctea estrelada.png" width="100%" />
+<img align="right" width="420" src="assets/images/via_lactea_estrelada_f.png" width="100%" />
 
 Oi! Eu sou a **Alice Oliveira Tolosa**, **Fullstack Developer**. Amo criar aplicações, principalmente aquelas que geram **impacto social**.
 
@@ -65,6 +65,21 @@ Plataforma Full Stack para gerenciamento de restaurantes e pedidos online, permi
 <br>
 
 --- 
+
+<img align="right" width="420" src="assets/images\meus_doramas.gif" alt="Demonstração do Meus Doramas" width="100%" />
+
+### `💜 Meus Doramas`
+
+Página web pessoal desenvolvida para organizar e compartilhar meus doramas favoritos, unindo minha paixão por histórias asiáticas com o aprendizado em desenvolvimento web. O projeto transforma uma lista de favoritos em uma experiência interativa e visual, utilizando um carrossel de séries com informações, avaliações e descrições.
+<br>
+`HTML5` | `CSS3` | `JavaScript` | `Responsive Design` | `Vanilla JS`
+
+<br>
+
+> 🔗 **Deploy do Front-end:** [Ver projeto](https://alicetolosa.github.io/meus_doramas/index.htm)
+
+<br>
+---
 
 ## 🌐 Vamos nos conectar?
 
